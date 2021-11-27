@@ -218,8 +218,13 @@ o cod_prod =170 e a loj_prod=2:
 </table>
 
 
+9)Montar um unico select para trazer os seguintes campos: o código da loja do produto, a descrição da loja, código do produto, a descrição do produto, o preço do produto, a quantidade em estoque do produto. Considere  que o código da loja para esta consulta seja igual a 1.
 
+<div> Script PHP: Get... Mais detalhes está no arquivo php "getAllProdutosEstoqueLojas.php"</div>
+<img src="https://user-images.githubusercontent.com/76443540/143722220-29ff3e7c-46ff-4017-bee2-24ca65f61cdd.png" />
 
+<br>
+<br>
 
 
 
