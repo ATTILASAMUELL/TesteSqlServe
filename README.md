@@ -5,8 +5,14 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 <div style="display:inline_block"><br/>
   <img align"center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align"center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  
  
 </div>
+
+[![LinkedIn ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attila-samuell-98291216b/)
+[![You Tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuX9fZZa3eR4LACYTPVZg5A/videos)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=attila.QRCodeGeradorLeitor&hl=pt_BR&gl=US)
 <br>
 
 <div>Resumo do Desafio: Foi proposto pela Empresa: TITAN SOFTWARE, realizar o desafio Teste SQL SERVE, no desafio contém requisitos como inserir, alterar, listar, realções de tabela, filtro de listagem, poderia ser respondido no proprio arquivo "Word", entretanto resolvi desenvolver uma API (Interface de programação de aplicações) utilizando a linguagem de programação PHP e Banco de dados MYSQL, nos testes das request e response utilizei o software Postman e na administração do banco de dados phpMyAdmin. </div>
