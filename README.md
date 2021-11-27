@@ -76,5 +76,13 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 o cod_prod =170 e a loj_prod=2: 
 
 
-<div> Script PHP: Insert into... Mais detalhes está no arquivo php "insertProdutos.php"</div>
+<div> Script PHP: UPDATE... Mais detalhes está no arquivo php "updateProdutos.php"</div>
 <img src="https://user-images.githubusercontent.com/76443540/143719125-be004218-e8a2-4c05-acf3-b5fd6a46a1af.png" />
+
+<br>
+<br>
+
+3-Com base na tabela de “produtos” monte um select trazendo todos os registros da loja 1 e 2:
+<div> Script PHP: Get... Mais detalhes está no arquivo php "getProdutos.php"</div>
+<img src="https://user-images.githubusercontent.com/76443540/143720068-22b650f9-5e02-4743-a60f-cfd497d80e02.png" />
+
