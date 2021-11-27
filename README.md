@@ -86,3 +86,19 @@ o cod_prod =170 e a loj_prod=2:
 <div> Script PHP: Get... Mais detalhes está no arquivo php "getProdutos.php"</div>
 <img src="https://user-images.githubusercontent.com/76443540/143720068-22b650f9-5e02-4743-a60f-cfd497d80e02.png" />
 
+4-Com base na tabela de “produtos” monte um select para trazer a maior e a menor data  de inclusão do produto “dt_inclu_prod”:
+
+
+<div> Script PHP: Get... Mais detalhes está no arquivo php "getdatemenorProdutos.php   e  getdateProdutos.php"</div>
+<img src="https://user-images.githubusercontent.com/76443540/143720198-c90cf331-1029-4d9f-9b48-e71520a42121.png" />
+<img src="https://user-images.githubusercontent.com/76443540/143720325-9ae49777-9c73-47cd-af02-e4ceb6d4aec9.png" />
+<br>
+<br>
+5-Com base na tabela de “produtos” monte um select para trazer a quantidade total de registros existentes na tabela de “produtos”:
+
+<div> Script PHP: Get... Mais detalhes está no arquivo php "getallProdutos.php"</div>
+<img src="https://user-images.githubusercontent.com/76443540/143720549-52a03646-121e-4571-8891-638db8b94a29.png" />
+
+
+
+
