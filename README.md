@@ -11,6 +11,8 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 
 <div>Resumo do Desafio: Foi proposto pela Empresa: TITAN SOFTWARE, realizar o desafio Teste SQL SERVE, no desafio contém requisitos como inserir, alterar, listar, realções de tabela, filtro de listagem, poderia ser respondido no proprio arquivo "Word", entretanto resolvi desenvolver uma API (Interface de programação de aplicações) utilizando a linguagem de programação PHP e Banco de dados MYSQL, nos testes das request e response utilizei o software Postman e na administração do banco de dados phpMyAdmin. </div>
 
+<div>Observação Importante: Para o arquivo não ficar muito grande, irei ocultar a partir da segunda pergunta, Prints do Postman e PhpMyAdmin ficando somente os script Php.</div>
+
 <br>
 
 <div> Configurações </div>
@@ -65,3 +67,13 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 
 <div> Dados Inserido, print da tela do PhpMyAdmin...</div>
 <img src="https://user-images.githubusercontent.com/76443540/143718909-ee9bae5d-367e-48be-acaa-1d38ec84d189.png" />
+
+<br>
+<br>
+
+2- O Índice da tabela  de “produtos é o cód_prod e a loj_prod, com base no referido índice faça a alteração do preço do produto para R$95,40, lembrando que 
+o cod_prod =170 e a loj_prod=2: 
+
+
+<div> Script PHP: Insert into... Mais detalhes está no arquivo php "insertProdutos.php"</div>
+<img src="https://user-images.githubusercontent.com/76443540/143719125-be004218-e8a2-4c05-acf3-b5fd6a46a1af.png" />
