@@ -195,6 +195,28 @@ o cod_prod =170 e a loj_prod=2:
    
 </table>
 
+<div>Tabela de loja:</div>
+
+<table border="1">
+    <tr>
+        <td>Campo</td>
+        <td>Tipo de campo</td>
+        <td>Chave</td>
+    </tr>
+    <tr>
+        <td>cod_prod</td>
+        <td>Integer (8)</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td>desc_loj</td>
+        <td>char (40)</td>
+        <td></td>
+    </tr>
+  
+   
+</table>
+
 
 
 
