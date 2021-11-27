@@ -99,6 +99,14 @@ o cod_prod =170 e a loj_prod=2:
 <div> Script PHP: Get... Mais detalhes está no arquivo php "getallProdutos.php"</div>
 <img src="https://user-images.githubusercontent.com/76443540/143720549-52a03646-121e-4571-8891-638db8b94a29.png" />
 
+6- Com base na tabela de “produtos” monte um select para trazer todos os produtos que comecem com a letra “L” na tabela de “produtos”:
+
+<div> Script PHP: Get... Mais detalhes está no arquivo php "getallProdutos.php"</div>
+<img src="https://user-images.githubusercontent.com/76443540/143720728-253e2039-ba2c-441c-bd62-665e96150eb8.png" />
+
+
+
+
 
 
 
