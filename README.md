@@ -10,3 +10,7 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA  - Fiz uma Api Estrutu
  
   
 </div>
+
+<h2> Descrição do desafio:</h2>
+
+1- Com base na tabela de “produtos” acima favor inserir um registro na referida tabela passando os seguintes valores : cod_prod =170, loj_prod=2, desc_prod=LEITE CONDESADO MOCOCA, dt_inclu_prod=30/12/2010  e preço_prod = R$45,40.
