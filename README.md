@@ -5,15 +5,14 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA  - Fiz uma Api Estrutu
 <div style="display:inline_block"><br/>
   <img align"center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align"center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-  
  
-
 </div>
+
+<div>Resumo do Desafio: Foi proposto pela Empresa: TITAN SOFTWARE, realizar o desafio Teste SQL SERVE, no desafio contém requisitos como inserir, alterar, listar, realções de tabela, filtro de listagem, poderia ser respondido no proprio arquivo "Word", entretanto resolvi desenvolver uma API (Interface de programação de aplicações) utilizando a linguagem de programação PHP e Banco de dados MYSQL, nos testes das request e response utilizei o software Postman. </div>
 
 <h2> Descrição do desafio:</h2>
 
-Tabela de produtos:
+<div>Tabela de produtos:</div>
 
 <table border="1">
     <tr>
