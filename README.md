@@ -98,16 +98,37 @@ o cod_prod =170 e a loj_prod=2:
 
 <div> Script PHP: Get... Mais detalhes está no arquivo php "getallProdutos.php"</div>
 <img src="https://user-images.githubusercontent.com/76443540/143720549-52a03646-121e-4571-8891-638db8b94a29.png" />
+<br>
+<br>
 
 6- Com base na tabela de “produtos” monte um select para trazer todos os produtos que comecem com a letra “L” na tabela de “produtos”:
 
 <div> Script PHP: Get... Mais detalhes está no arquivo php "getallProdutos.php"</div>
 <img src="https://user-images.githubusercontent.com/76443540/143721088-bcc9f4e9-ef57-428c-9dee-74e242544cf5.png" />
+<br>
+<br>
 
 7 - Com base na tabela de “produtos” monte um select para trazer a soma de todos os preços dos produtos totalizado por loja:
 
 <div> Script PHP: Get... Mais detalhes está no arquivo php "getSoma.php"</div>
 <img src="https://user-images.githubusercontent.com/76443540/143721044-3da50d35-373b-4fb1-b954-14f8a125a1d0.png" />
+<br>
+<br>
+
+
+
+8 -Com base na tabela de “produtos” monte um select para trazer a soma de todos os preços dos produtos totalizados por loja que seja maior que R$100.000
+<div> Script PHP: Get... Mais detalhes está no arquivo php "somamaiorquecemProdutos.php"</div>
+<img src="https://user-images.githubusercontent.com/76443540/143721225-fb9c6b4c-0e5b-4f02-8298-9ec662e32b9f.png" />
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 
 
 
