@@ -14,8 +14,7 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 <br>
 
 <div> Configurações </div>
-![conf](https://user-images.githubusercontent.com/76443540/143703414-58b6b21f-4046-4edd-870c-80455ffbe33a.png)
-
+<img src="https://user-images.githubusercontent.com/76443540/143707989-2c47b227-0120-46dd-bfec-33fc25892f68.png" />
 <br>
 
 <h2> Descrição do desafio:</h2>
@@ -57,3 +56,6 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 </table>
 
 1- Com base na tabela de “produtos” acima favor inserir um registro na referida tabela passando os seguintes valores : cod_prod =170, loj_prod=2, desc_prod=LEITE CONDESADO MOCOCA, dt_inclu_prod=30/12/2010  e preço_prod = R$45,40.
+
+<div> Script PHP: Insert into... </div>
+<img src="https://user-images.githubusercontent.com/76443540/143713676-ec41f078-b410-4d82-8e26-4a9d62a825cf.png" />
