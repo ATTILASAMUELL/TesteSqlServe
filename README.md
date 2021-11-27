@@ -57,5 +57,11 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 
 1- Com base na tabela de “produtos” acima favor inserir um registro na referida tabela passando os seguintes valores : cod_prod =170, loj_prod=2, desc_prod=LEITE CONDESADO MOCOCA, dt_inclu_prod=30/12/2010  e preço_prod = R$45,40.
 
-<div> Script PHP: Insert into... </div>
+<div> Script PHP: Insert into... Mais detalhes está no arquivo php "insertProdutos.php"</div>
 <img src="https://user-images.githubusercontent.com/76443540/143713676-ec41f078-b410-4d82-8e26-4a9d62a825cf.png" />
+
+<div> Teste no Postman da Response e Request...</div>
+<img src="https://user-images.githubusercontent.com/76443540/143718761-133ead63-22a0-4d7e-a160-b6bcdea6121e.png" />
+
+<div> Dados Inserido, print da tela do PhpMyAdmin...</div>
+<img src="https://user-images.githubusercontent.com/76443540/143718909-ee9bae5d-367e-48be-acaa-1d38ec84d189.png" />
