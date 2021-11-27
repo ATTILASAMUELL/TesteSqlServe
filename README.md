@@ -234,6 +234,16 @@ o cod_prod =170 e a loj_prod=2:
 <br>
 <br>
 
+11-Observe a estrutura da tabela de estoque e da tabela de produtos, monte um select para trazer todos os produtos que existem na tabela de estoque que não existem na tabela de produtos.
+
+<div> Script PHP: Get... Mais detalhes está no arquivo php "rightJoin.php"</div>
+<img src="https://user-images.githubusercontent.com/76443540/143722307-2004bb92-46e6-420f-9101-586d4794d07c.png" />
+
+
+<br>
+<br>
+
+
 
 
 
