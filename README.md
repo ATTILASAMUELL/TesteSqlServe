@@ -132,6 +132,69 @@ o cod_prod =170 e a loj_prod=2:
 <br>
 <br>
 
+<div>Tabela de produtos:</div>
+
+<table border="1">
+    <tr>
+        <td>Campo</td>
+        <td>Tipo de campo</td>
+        <td>Chave</td>
+    </tr>
+    <tr>
+        <td>cod_prod</td>
+        <td>Integer (8)</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td>loj_prod</td>
+        <td>Integer (8)</td>
+        <td>X</td>
+    </tr>
+  
+   <tr>
+        <td>desc_prod</td>
+        <td>Char (40)</td>
+        <td></td>
+    </tr>
+   <tr>
+        <td>dt_inclu_prod</td>
+        <td>Data (dd/mm/yyyy)</td>
+        <td></td>
+    </tr>
+   <tr>
+        <td>preco_prod</td>
+        <td>decimal (8,3)</td>
+        <td></td>
+    </tr>
+</table>
+
+<div>Tabela estoque:</div>
+
+<table border="1">
+    <tr>
+        <td>Campo</td>
+        <td>Tipo de campo</td>
+        <td>Chave</td>
+    </tr>
+    <tr>
+        <td>cod_prod</td>
+        <td>Integer (8)</td>
+        <td>X</td>
+    </tr>
+    <tr>
+        <td>loj_prod</td>
+        <td>Integer (8)</td>
+        <td>X</td>
+    </tr>
+  
+   <tr>
+        <td>qtd_prod</td>
+        <td>decimal (10.3)</td>
+        <td></td>
+    </tr>
+   
+</table>
+
 
 
 
