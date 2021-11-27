@@ -117,7 +117,7 @@ o cod_prod =170 e a loj_prod=2:
 
 
 
-8 -Com base na tabela de “produtos” monte um select para trazer a soma de todos os preços dos produtos totalizados por loja que seja maior que R$100.000
+8 -Com base na tabela de “produtos” monte um select para trazer a soma de todos os preços dos produtos totalizados por loja que seja maior que R$100
 <div> Script PHP: Get... Mais detalhes está no arquivo php "somamaiorquecemProdutos.php"</div>
 <img src="https://user-images.githubusercontent.com/76443540/143721225-fb9c6b4c-0e5b-4f02-8298-9ec662e32b9f.png" />
 
