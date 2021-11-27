@@ -13,6 +13,11 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 
 <br>
 
+<div> Configurações </div>
+![conf](https://user-images.githubusercontent.com/76443540/143703414-58b6b21f-4046-4edd-870c-80455ffbe33a.png)
+
+<br>
+
 <h2> Descrição do desafio:</h2>
 
 <div>Tabela de produtos:</div>
