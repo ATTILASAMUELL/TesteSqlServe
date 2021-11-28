@@ -1,6 +1,6 @@
 
-<h1>  Teste Sql Serve </h1>
-TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY - Fiz uma Api Estrutural Php Mysql Simples
+<h1>  Teste Sql Server </h1>
+TesteSqlServer - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY - Fiz uma Api Estrutural Php Mysql Simples
 
 <div style="display:inline_block"><br/>
   <img align"center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
