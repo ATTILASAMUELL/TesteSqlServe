@@ -117,7 +117,8 @@ o cod_prod =170 e a loj_prod=2:
 7 - Com base na tabela de “produtos” monte um select para trazer a soma de todos os preços dos produtos totalizado por loja:
 
 <div> Script PHP: Get... Mais detalhes está no arquivo php "getSoma.php"</div>
-<img src="https://user-images.githubusercontent.com/76443540/143721044-3da50d35-373b-4fb1-b954-14f8a125a1d0.png" />
+<img src="https://user-images.githubusercontent.com/76443540/143868365-ea0196a9-5bac-452f-aadd-ed68c99a29d4.png" />
+
 <br>
 <br>
 
