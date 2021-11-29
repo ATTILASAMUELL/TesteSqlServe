@@ -1,6 +1,6 @@
 
-<h1>  Teste Sql Serve </h1>
-TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY - Fiz uma Api Estrutural Php Mysql Simples
+<h1>  Teste Sql Server </h1>
+TesteSqlServer - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY - Fiz uma Api Estrutural Php Mysql Simples
 
 <div style="display:inline_block"><br/>
   <img align"center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -15,7 +15,7 @@ TesteSqlServe - Empresa TITAN SOFTWARE - Candidato ATTILA SAMUELL NUNES TABORY -
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=attila.QRCodeGeradorLeitor&hl=pt_BR&gl=US)
 <br>
 
-<div>Resumo do Desafio: Foi proposto pela Empresa: TITAN SOFTWARE, realizar o desafio Teste SQL SERVE, no desafio contém requisitos como inserir, alterar, listar, realções de tabela, filtro de listagem, poderia ser respondido no proprio arquivo "Word", entretanto resolvi desenvolver uma API (Interface de programação de aplicações) utilizando a linguagem de programação PHP e Banco de dados MYSQL, nos testes das request e response utilizei o software Postman e na administração do banco de dados phpMyAdmin. </div>
+<div>Resumo do Desafio: Foi proposto pela Empresa: TITAN SOFTWARE, realizar o desafio Teste SQL SERVE, no desafio contém requisitos como inserir, alterar, listar, relações de tabela, filtro de listagem, poderia ser respondido no proprio arquivo "Word", entretanto resolvi desenvolver uma API (Interface de programação de aplicações) utilizando a linguagem de programação PHP e Banco de dados MYSQL, nos testes das request e response utilizei o software Postman e na administração do banco de dados phpMyAdmin. </div>
 <br>
 <br>
 <div>Observação Importante: Para o arquivo não ficar muito grande, irei ocultar a partir da segunda pergunta, Prints do Postman e PhpMyAdmin ficando somente os script Php.</div>
