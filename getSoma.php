@@ -17,7 +17,7 @@ try{
         $loj_prod = filter_input(INPUT_GET, 'loj_prod');
 
         if($loj_prod ){
-            $query = "SELECT sum(preco_prod )  as total FROM produtos WHERE loj_prod = :loj_prod";
+            $query = "SELECT sum(preco_prod )  as total FROM produtos HAVING loj_prod = :loj_prod";
             $sql= $pdo->prepare($query);
             $sql->bindParam(":loj_prod", $loj_prod);
             $sql->execute();
